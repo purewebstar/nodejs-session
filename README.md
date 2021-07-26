@@ -24,3 +24,7 @@ DATABASE_URI=?
 PORT=?
 SESSION_SECRET_KEY=?
 ```
+## Run Project
+```
+nodemon app.js
+```
