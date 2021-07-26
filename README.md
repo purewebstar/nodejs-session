@@ -28,3 +28,7 @@ SESSION_SECRET_KEY=?
 ```
 nodemon app.js
 ```
+### Or
+```
+npm run devStart
+```
