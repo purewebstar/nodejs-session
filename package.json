@@ -1,0 +1,31 @@
+{
+  "name": "user-account-session",
+  "version": "1.0.0",
+  "description": "creating user account and login using express session",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "author": "Abraham Mitiku",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bootstrap": "^5.0.2",
+    "connect-mongodb-session": "^3.0.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-cookie": "^4.17.1",
+    "express-session": "^1.17.2",
+    "jquery": "^3.6.0",
+    "mdbootstrap": "^4.19.2",
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "type": "module"
+}
