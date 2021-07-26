@@ -13,4 +13,4 @@ mongoose, ejs, dotenv.
 ### Add .env file and write your
 - DATABASE_URI=?
 - PORT=?
--SESSION_SECRET_KEY=?
+- SESSION_SECRET_KEY=?
