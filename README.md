@@ -9,3 +9,8 @@ mongoose, ejs, dotenv.
 
 ### In package.json (add "type" : "module") 
 - for ECS6
+
+### Add .env file and write your
+- DATABASE_URI=?
+- PORT=?
+-SESSION_SECRET_KEY=?
