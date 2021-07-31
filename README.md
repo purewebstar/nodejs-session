@@ -14,7 +14,7 @@ npm install --save express bcrypt cors express-session jquery mdbootstrap bootst
 npm install --save-dev nodemon
 ```
 ### In package.json (add "type" : "module") 
-- for ECS6
+- for ES6
 ```json
 "type": "module"
 ```
